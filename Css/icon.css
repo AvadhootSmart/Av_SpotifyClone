@@ -1,0 +1,30 @@
+.fa-solid{
+    padding-right: 15px;
+    scale: 1.2;
+
+}
+.login button {
+    width: 130px;
+    border-radius: 100px;
+    border-color: rgb(179, 179, 179);
+    /* border: 10px;     */
+    height: 50px;
+    color: #1a1a1a;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.login {
+    padding: 0 20px;
+    align-self: center;
+}
+
+.signup {
+    align-self: center;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(179, 179, 179);
+    padding: 0 20px;
+}

@@ -1,0 +1,43 @@
+@media screen and (max-width:480px) and (min-width:400px) {
+    .leftbar p {
+        opacity: 0%;
+    }
+
+    .leftbar li {
+        /* scale: 1.1; */
+        padding: 0;
+        margin: 0;
+    }
+
+    .leftbar {
+        max-width: 14vw;
+        /* content: icon; */
+    }
+
+    .leftbar ul {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+    }
+
+    .main h2 {
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .main {
+        max-width: calc(100% - 16vw);
+    }
+
+    .cards {
+        scale: 0.8;
+    }
+    
+
+
+
+
+
+
+
+}

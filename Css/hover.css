@@ -1,0 +1,23 @@
+li:hover {
+    font-weight: 500;
+    color: white;
+}
+
+.signup:hover {
+    font-weight: 500;
+    color: white;
+}
+
+.cards:hover {
+    /* background: linear-gradient(to top, rgb(18, 18, 18), rgb(40, 40, 40)70%); */
+    background-color: rgb(179, 179, 179);
+    scale: 1.2;
+}
+
+.cards:hover .cover p {
+    color: black;
+}
+
+.main h2:hover {
+    text-decoration: underline;
+}
