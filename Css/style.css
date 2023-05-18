@@ -16,7 +16,17 @@ section {
     width: 100vw;
     height: auto;
 }
+.footer{
+    position: sticky;
+    margin-top: 215px;
+    /* background-color: red; */
+    width: 20vw;
+    text-align: center;
+    font-family:cursive;
 
+    
+    
+}
 .main {
     display: flex;
     flex-direction: column;
